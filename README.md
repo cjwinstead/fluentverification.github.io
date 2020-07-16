@@ -1,8 +1,8 @@
-# SBKS Website
+# FLUENT Verification Project Website
 
 In order to edit the website locally, do the following:
 
-    git clone https://github.com/synbioks/synbioks.github.io.git
+    git clone https://github.com/fluentverification/fluentverification.github.io.git
     edit index.html with favorite html browser
     git checkout -b <branchName>
     git status 
