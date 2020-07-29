@@ -99,6 +99,11 @@ ul {
     list-style: none;
 }
 
+ul>li>ul {
+    padding-left: 30px;
+    list-style: none;
+}
+
 ol li ul li {
     padding-left: 20px;
 }
